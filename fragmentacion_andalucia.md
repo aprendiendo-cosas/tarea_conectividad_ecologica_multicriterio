@@ -4,7 +4,7 @@
 > + **_Versión_**: 0
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **_enlace descarga_**: [https://github.com/fjbonet/teaching_intraspecific_competence](https://github.com/fjbonet/teaching_intraspecific_competence)
+> + **_Nombre release en Github_**: corredores_ecologicos_v0_2019_2020_CCAA
 
 
 
